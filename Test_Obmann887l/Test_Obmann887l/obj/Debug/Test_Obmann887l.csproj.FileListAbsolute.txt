@@ -1,0 +1,7 @@
+C:\Users\Lukas\Gitobmman887l\Test_Obmann887l\Test_Obmann887l\bin\Debug\Test_Obmann887l.exe.config
+C:\Users\Lukas\Gitobmman887l\Test_Obmann887l\Test_Obmann887l\bin\Debug\Test_Obmann887l.exe
+C:\Users\Lukas\Gitobmman887l\Test_Obmann887l\Test_Obmann887l\bin\Debug\Test_Obmann887l.pdb
+C:\Users\Lukas\Gitobmman887l\Test_Obmann887l\Test_Obmann887l\obj\Debug\Test_Obmann887l.csprojResolveAssemblyReference.cache
+C:\Users\Lukas\Gitobmman887l\Test_Obmann887l\Test_Obmann887l\obj\Debug\Test_Obmann887l.csproj.CoreCompileInputs.cache
+C:\Users\Lukas\Gitobmman887l\Test_Obmann887l\Test_Obmann887l\obj\Debug\Test_Obmann887l.exe
+C:\Users\Lukas\Gitobmman887l\Test_Obmann887l\Test_Obmann887l\obj\Debug\Test_Obmann887l.pdb
