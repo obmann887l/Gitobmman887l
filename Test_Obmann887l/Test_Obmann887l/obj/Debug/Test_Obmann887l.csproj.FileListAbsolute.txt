@@ -8,3 +8,6 @@ C:\Users\Lukas\Gitobmman887l\Test_Obmann887l\Test_Obmann887l\obj\Debug\Test_Obma
 C:\Users\schueler\Desktop\Test\Test_Obmann887l\Test_Obmann887l\bin\Debug\Test_Obmann887l.exe.config
 C:\Users\schueler\Desktop\Test\Test_Obmann887l\Test_Obmann887l\obj\Debug\Test_Obmann887l.exe
 C:\Users\schueler\Desktop\Test\Test_Obmann887l\Test_Obmann887l\obj\Debug\Test_Obmann887l.pdb
+C:\Users\schueler\Desktop\Gitobmman887l-master\Gitobmman887l\Test_Obmann887l\Test_Obmann887l\bin\Debug\Test_Obmann887l.exe.config
+C:\Users\schueler\Desktop\Gitobmman887l-master\Gitobmman887l\Test_Obmann887l\Test_Obmann887l\obj\Debug\Test_Obmann887l.exe
+C:\Users\schueler\Desktop\Gitobmman887l-master\Gitobmman887l\Test_Obmann887l\Test_Obmann887l\obj\Debug\Test_Obmann887l.pdb

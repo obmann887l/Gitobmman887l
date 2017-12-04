@@ -10,11 +10,10 @@ namespace Test_Obmann887l
     {
         static void Main(string[] args)
         {
-<<<<<<< HEAD
             Console.WriteLine("Hallo git");
-=======
             Console.WriteLine("Hallo git1");
->>>>>>> e148161d37e431e307033c87a71fde71471bae54
+            Console.WriteLine("Emres Edit");
+
             Console.ReadKey();
         }
     }
