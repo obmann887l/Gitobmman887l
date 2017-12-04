@@ -13,7 +13,7 @@ namespace Test_Obmann887l
             Console.WriteLine("Hallo git");
             Console.WriteLine("Hallo git1");
             Console.WriteLine("Emres hat großen kopf");
-
+            Console.WriteLine("Lukas hat einen kleinen bzw keinen Schwanz");
             Console.ReadKey();
         }
     }
