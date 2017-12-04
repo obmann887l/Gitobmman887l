@@ -12,7 +12,7 @@ namespace Test_Obmann887l
         {
             Console.WriteLine("Hallo git");
             Console.WriteLine("Hallo git1");
-            Console.WriteLine("Emres Edit");
+            Console.WriteLine("Emres hat großen kopf");
 
             Console.ReadKey();
         }
